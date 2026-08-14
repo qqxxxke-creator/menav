@@ -1,0 +1,23 @@
+title: 常用
+
+sections:
+  - title: 常用网站
+    icon: fas fa-star
+
+    sites:
+
+      - name: Google
+        url: https://www.google.com
+        description: 搜索
+
+      - name: GitHub
+        url: https://github.com
+        description: 代码仓库
+
+      - name: ChatGPT
+        url: https://chat.openai.com
+        description: AI助手
+      
+      - name: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov
+        description: 文献检索

@@ -1,0 +1,124 @@
+title: Work
+
+categories:
+
+  - name: 文献数据库
+    icon: fas fa-book
+
+    sites:
+
+      - name: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov
+        description: 生物医学文献检索
+
+      - name: Google Scholar
+        url: https://scholar.google.com
+        description: 学术搜索
+
+      - name: Nature
+        url: https://www.nature.com
+        description: 科学期刊
+
+      - name: Science
+        url: https://www.science.org
+        description: 科学期刊
+
+
+  - name: 生物信息分析
+    icon: fas fa-dna
+
+    sites:
+
+      - name: TCGA
+        url: https://portal.gdc.cancer.gov
+        description: 癌症基因组数据库
+
+      - name: GEO
+        url: https://www.ncbi.nlm.nih.gov/geo/
+        description: 基因表达数据库
+
+      - name: Metascape
+        url: https://metascape.org
+        description: GO/KEGG富集分析
+
+      - name: UALCAN
+        url: https://ualcan.path.uab.edu/
+        description: 癌症数据分析
+
+
+  - name: AI科研工具
+    icon: fas fa-robot
+
+    sites:
+
+      - name: ChatGPT
+        url: https://chatgpt.com
+        description: AI科研助手
+
+      - name: Claude
+        url: https://claude.ai
+        description: AI助手
+
+      - name: Gemini
+        url: https://gemini.google.com
+        description: Google AI助手
+
+      - name: DeepSeek
+        url: https://chat.deepseek.com
+        description: AI助手
+
+
+  - name: AI开发工具
+    icon: fas fa-code
+
+    sites:
+
+      - name: GitHub
+        url: https://github.com
+        description: 开源代码平台
+
+      - name: GitCN
+        url: https://gitcn.org/
+        description: Git资源社区
+        
+      - name: Hugging Face
+        url: https://huggingface.co
+        description: AI模型社区
+
+      - name: OpenAI Platform
+        url: https://platform.openai.com
+        description: AI开发接口
+
+      - name: CSDN
+        url: https://www.csdn.net/
+        description: 技术社区
+
+      - name: CSDN AI Coding
+        url: https://aicoding.csdn.net/
+        description: AI编程平台
+
+
+  - name: 分子对接工具
+    icon: fas fa-cube
+
+    sites:
+
+      - name: RCSB PDB
+        url: https://www.rcsb.org/
+        description: 蛋白晶体结构数据库
+
+      - name: PubChem
+        url: https://pubchem.ncbi.nlm.nih.gov/
+        description: 化合物结构数据库
+
+      - name: UniProt
+        url: https://www.uniprot.org/
+        description: 蛋白质序列与功能数据库
+
+      - name: AlphaFold DB
+        url: https://alphafold.ebi.ac.uk/
+        description: AI预测蛋白结构数据库
+
+      - name: SwissADME
+        url: https://www.swissadme.ch/
+        description: 药物性质预测分析

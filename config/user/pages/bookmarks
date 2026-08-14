@@ -1,0 +1,50 @@
+title: 学习
+
+categories:
+
+  - name: 学习平台
+    icon: fas fa-graduation-cap
+
+    sites:
+
+      - name: 哔哩哔哩
+        url: https://www.bilibili.com/
+        description: 视频学习平台
+
+      - name: IELTS
+        url: https://www.ielts.org/
+        description: 雅思官方网站
+
+     
+
+
+  - name: 英语学习
+    icon: fas fa-language
+
+    sites:
+
+      - name: Anki
+        url: https://apps.ankiweb.net/
+        description: 间隔重复记忆工具
+
+
+  - name: 知识工具
+    icon: fas fa-book
+
+    sites:
+
+      - name: DeepL
+        url: https://www.deepl.com/
+        description: AI翻译工具
+
+      - name: Grammarly
+        url: https://www.grammarly.com/
+        description: 英语写作辅助
+
+      - name: Zotero中文社区
+        url: https://zotero-chinese.com/
+        description: Zotero教程与资源
+
+      - name: Overleaf
+        url: https://www.overleaf.com/
+        description: LaTeX论文写作

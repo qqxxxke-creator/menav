@@ -1,0 +1,30 @@
+title: 科研
+
+categories:
+
+  - name: 文献数据库
+    icon: fas fa-book
+
+    sites:
+
+      - name: PubMed
+        url: https://pubmed.ncbi.nlm.nih.gov
+        description: 生物医学文献检索
+
+      - name: Nature
+        url: https://www.nature.com
+        description: 科学期刊
+
+
+  - name: 生信分析
+    icon: fas fa-dna
+
+    sites:
+
+      - name: TCGA
+        url: https://portal.gdc.cancer.gov
+        description: 癌症基因组数据库
+
+      - name: GEO
+        url: https://www.ncbi.nlm.nih.gov/geo/
+        description: 基因表达数据库

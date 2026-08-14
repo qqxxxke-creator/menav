@@ -101,11 +101,11 @@ navigation:
     icon: fas fa-star
     id: common
 
-  - name: 科研
+  - name: Work
     icon: fas fa-project-diagram
-    id: projects
+    id: work
 
-  - name: AI
+  - name: 信息
     icon: fas fa-robot
     id: articles
 

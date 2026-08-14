@@ -115,4 +115,4 @@ navigation:
 
   - name: 生活
     icon: fas fa-heart
-    id: content
+    id: life

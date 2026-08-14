@@ -8,16 +8,16 @@ sections:
 
       - name: Google
         url: https://www.google.com
-        description: 搜索
+        description: 搜索引擎
 
       - name: GitHub
         url: https://github.com
         description: 代码仓库
 
       - name: ChatGPT
-        url: https://chat.openai.com
+        url: https://chatgpt.com
         description: AI助手
-      
+
       - name: PubMed
         url: https://pubmed.ncbi.nlm.nih.gov
         description: 文献检索

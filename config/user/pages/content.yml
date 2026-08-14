@@ -1,0 +1,40 @@
+title: 生活
+
+categories:
+
+  - name: 日常工具
+    icon: fas fa-tools
+
+    sites:
+
+      - name: 网易邮箱
+        url: https://mail.163.com/
+        description: 网易邮箱
+
+      - name: 百度网盘
+        url: https://pan.baidu.com/
+        description: 云端文件存储
+
+      - name: 夸克网盘
+        url: https://pan.quark.cn/
+        description: 云端文件存储
+
+      - name: 阿虚同学
+        url: https://axutongxue.net/
+        description: 学习资源分享
+
+
+  - name: 娱乐
+    icon: fas fa-heart
+
+    sites:
+
+      - name: YouTube
+        url: https://youtube.com
+        description: 视频平台
+
+      - name: No视频
+        url: https://www.novipnoad.net/
+        description: 视频平台
+
+     
